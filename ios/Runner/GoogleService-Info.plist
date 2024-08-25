@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>917963014037-2bcterl2g59kd6hcbam93lgeim9jj8gb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.917963014037-2bcterl2g59kd6hcbam93lgeim9jj8gb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCbLV3l7zOi2N1qkztnC8hzl0FBqy8aBKI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>917963014037</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.SamTech.khanDairy</string>
+	<key>PROJECT_ID</key>
+	<string>cow-dairy-system</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cow-dairy-system.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:917963014037:ios:95deeb883900b0d39d809c</string>
+</dict>
+</plist>

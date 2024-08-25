@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444588822343",
+    "project_id": "dairy-farm-3e672",
+    "storage_bucket": "dairy-farm-3e672.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444588822343:android:2d0f68fe5b7e7052b54662",
+        "android_client_info": {
+          "package_name": "com.SamTech.khan_dairy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmU4MZYTZaUFMHCZ7NVaW2TiAwiw7MaVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
